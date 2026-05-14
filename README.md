@@ -1,6 +1,7 @@
 # cPanel Brute Boys
 
 ![Screenshot](https://i.imgur.com/NqEbhZ1.png)
+
 **cPanel Brute Crack Boys** dibuat menggunakan Python untuk melakukan brute-force attack pada login cPanel. Tools ini mendukung dua mode: single username dan mass username, memungkinkan pengguna untuk menguji banyak kombinasi username dan password secara efisien.
 
 ## Fitur
